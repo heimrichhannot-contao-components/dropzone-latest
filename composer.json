@@ -1,0 +1,24 @@
+{
+  "name": "heimrichhannot-contao-components/dropzone-latest",
+  "description": "A shim repositoy for dropzone as contao component.",
+  "type": "contao-component",
+  "license": "MIT",
+  "keywords": [
+    "contao",
+    "contao-component",
+    "dropzone",
+    "shim",
+    "javascript"
+  ],
+  "authors": [
+    {
+      "name": "Heimrich & Hannot",
+      "email": "digitales@heimrich-hannot.de",
+      "homepage": "https://www.heimrich-hannot.de",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "contao-components/installer": "^1.0"
+  }
+}
