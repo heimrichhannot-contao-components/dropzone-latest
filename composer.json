@@ -20,5 +20,8 @@
   ],
   "require": {
     "contao-components/installer": "^1.0"
+  },
+  "replace": {
+    "heimrichhannot/dropzone-latest": "*"
   }
 }
